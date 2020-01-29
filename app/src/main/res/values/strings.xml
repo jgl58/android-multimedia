@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multimedia</string>
+    <string name="butRead">Leer</string>
+    <string name="radioSpanish">Español</string>
+    <string name="radioEnglish">Inglés</string>
+    <string name="writehere">Escribe aquí</string>
+</resources>
